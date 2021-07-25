@@ -1,4 +1,4 @@
-# Оптимизация машинного обучения  
+![001](https://hsto.org/getpro/habr/upload_files/cd8/7b1/2e5/cd87b12e56666d8a87726ecdcde75f62.jpeg)
 Статья для портала NewNechAudit. Опубликована на [хабре](https://habr.com/ru/post/563494/).
 
 ### Datascience – это не только fit-predict
